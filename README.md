@@ -3,6 +3,8 @@
  - 🌎 Córdoba, Argentina
  - 🌐 Web Developer
  - 🖥 https://lautarowalther.xyz
+ - 🌱 I'm currently learning React-Native
+ - 🏫 I study at National Technology University
 
 <!--
 **LautiWalther/LautiWalther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
