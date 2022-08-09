@@ -3,7 +3,6 @@
  - 🌎 Córdoba, Argentina
  - 🌐 Web Developer
  - 🖥 https://lautarowalther.xyz
- - 🌱 I'm currently learning React-Native
  - 🏫 I study at National Technology University
 
 <!--
