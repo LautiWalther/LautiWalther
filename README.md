@@ -2,7 +2,7 @@
 
  - 🌎 Córdoba, Argentina
  - 🌐 Web Developer
- - 🖥 https://lautarowalther.com.ar
+ - 🖥 https://lautarowalther.com
  - 🏫 I study at National Technology University
 
 <!--
