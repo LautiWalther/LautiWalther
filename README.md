@@ -3,7 +3,7 @@
  - 🌎 Córdoba, Argentina
  - 🌐 Web Developer
  - 🖥 https://lautarowalther.com
- - 🏫 I study at National Technology University
+ - 🏫 I study at National Technological University
 
 <!--
 **LautiWalther/LautiWalther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
