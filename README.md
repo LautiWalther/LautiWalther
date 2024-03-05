@@ -1,7 +1,7 @@
 ### Lauti Walther 👋
 
  - 🌎 Córdoba, Argentina
- - 🌐 Web Developer
+ - 🌐 Backend Developer
  - 🖥 https://lautarowalther.com
  - 🏫 I study at National Technological University
 
